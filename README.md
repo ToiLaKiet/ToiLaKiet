@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToiLaKiet
-- 👀 I’m interested in Good Songs
+- 👀 I’m interested in Marvel films
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Bioinformatics Projects 
+- 💞️ I’m looking forward to collaborating on a IT project
 - 📫 How to reach me tuilakietday05@gmail.com
 - 😄 Pronouns: He
-- ⚡ Myself: I am stupid but trying to do better !
+- ⚡ Myself: Trying to do better !

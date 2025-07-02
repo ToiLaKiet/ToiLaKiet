@@ -18,6 +18,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,react,cpp" />
 <br/>
+<hr/>
 </div>
 📫 How to reach me: <b>toilakiet.dev@gmail.com</b>
     <br/>

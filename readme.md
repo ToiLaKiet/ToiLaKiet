@@ -8,9 +8,9 @@
 </p>
 <hr>
 <div align="center">
- <img height="250" class="img" src="https://github-readme-stats.vercel.app/api?username=ToiLaKiet&show_icons=true&theme=cobalt&rank_icon=github" />
+ <img height="250" class="img" src="https://github-readme-stats.vercel.app/api?username=ToiLaKiet&show_icons=true&theme=solarized-light&rank_icon=github" />
  <br/>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToiLaKiet&size_weight=0.5&count_weight=0.5&theme=cobalt&card_width=600&hide=html,css,scss,javascript" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToiLaKiet&size_weight=0.5&count_weight=0.5&theme=solarized-light&card_width=600&hide=html,css,scss,javascript" />
 </div>
 <br/>
 <hr/>

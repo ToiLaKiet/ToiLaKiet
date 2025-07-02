@@ -13,10 +13,9 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToiLaKiet&size_weight=0.5&count_weight=0.5&theme=cobalt&card_width=600&hide=html,css,scss,javascript" />
 </div>
 <br/>
-<h2 align="center"> Skills </h2>
+<hr/>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,react,cpp" />
 <br/>
-<hr/>
 </div>

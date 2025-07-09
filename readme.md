@@ -17,6 +17,6 @@
 <hr/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,polar,react,cpp,flask," />
+    <img src="https://skillicons.dev/icons?i=python,react,cpp,flask," />
 <br/>
 </div>

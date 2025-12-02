@@ -6,9 +6,6 @@
 </samp>
     <br/>
 </p>
-<hr>
-<br/>
-<hr/>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,cpp,flask," />

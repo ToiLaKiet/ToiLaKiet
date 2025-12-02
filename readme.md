@@ -7,10 +7,6 @@
     <br/>
 </p>
 <hr>
-<div align="center">
-  <br/>
-  light&card_width=600&hide=html,css,scss,javascript" />
-</div>
 <br/>
 <hr/>
 <br/>

@@ -1,30 +1,35 @@
-<br>
-
-<h1 align="center">
-  👋 Hello there! I'm <a href="https://toilakiet.github.io/">Kiet</a>
-</h1>
-
 <p align="center">
-  <samp>✨ A quote I live by ✨</samp>
+  <a href="https://giphy.com/gifs/RawFury-3s6inaVnOnO6L3vbwR">
+    <img
+      src="https://media.giphy.com/media/3s6inaVnOnO6L3vbwR/giphy.gif"
+      width="100%"
+      alt="Chill animated scene"
+    >
+  </a>
 </p>
 
 <p align="center">
-  <em>“Stay hungry, stay foolish.”</em>
+  <samp>
+    Hello there! I'm
+    <b><a href="https://toilakiet.github.io/">Kiet</a></b> 👋
+    <br><br>
+    I love this quote quite a lot:
+    <i>“Stay hungry, stay foolish.”</i>
+  </samp>
 </p>
 
 <p align="center">
   <a href="https://toilakiet.github.io/">
     <img
-      src="https://img.shields.io/badge/Visit_my_portfolio-756A5B?style=for-the-badge"
-      alt="Visit my portfolio"
+      src="https://img.shields.io/badge/My_Portfolio-756A5B?style=for-the-badge"
+      alt="My Portfolio"
     >
   </a>
   <img
-    src="https://komarev.com/ghpvc/?username=ToiLaKiet&amp;color=756A5B&amp;style=for-the-badge&amp;label=views"
-    alt="Profile views"
+    src="https://komarev.com/ghpvc/?username=ToiLaKiet&color=756A5B&style=for-the-badge&label=views"
+    alt="Profile Views"
   >
 </p>
 
 <br>
 
----

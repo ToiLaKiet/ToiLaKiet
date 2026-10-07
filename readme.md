@@ -1,20 +1,10 @@
 <p align="center">
-  <a href="https://giphy.com/gifs/RawFury-3s6inaVnOnO6L3vbwR">
-    <img
-      src="https://media.giphy.com/media/3s6inaVnOnO6L3vbwR/giphy.gif"
-      width="100%"
-      alt="Chill animated scene"
-    >
-  </a>
-</p>
-
-<p align="center">
   <samp>
     Hello there! I'm
     <b><a href="https://toilakiet.github.io/">Kiet</a></b> 👋
     <br><br>
     I love this quote quite a lot:
-    <i>“Stay hungry, stay foolish.”</i>
+    <i>“stay hungry, stay foolish.”</i>
   </samp>
 </p>
 
@@ -33,3 +23,10 @@
 
 <br>
 
+<p align="center">
+  <img
+    src="./assets/chill.gif"
+    width="100%"
+    alt="Chill animated scene"
+  >
+</p>

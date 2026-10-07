@@ -6,6 +6,8 @@
   >
 </p>
 
+<br/>
+
 <p align="center">
   <samp>
     Hello there! I'm
@@ -23,8 +25,8 @@
       alt="My Portfolio"
     >
   </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=ToiLaKiet&color=756A5B&style=for-the-badge&label=views"
-    alt="Profile Views"
-  >
+    <img
+      src="https://komarev.com/ghpvc/?username=ToiLaKiet&color=756A5B&style=for-the-badge&label=views"
+      alt="Profile Views"
+    >
 </p>

@@ -1,13 +1,11 @@
 <p align="center">
   <img src="./chill.gif" width="100%" alt="Chill animated scene">
 </p>
-
-<br><br>
 <p align="center">
   <samp>
     Hello there! I'm
     <b><a href="https://toilakiet.github.io/">Kiet</a></b> 👋
-    <br>
+    <br><br>
     There is one quote I want to live by: 
     <i>“stay hungry, stay foolish”</i> - Steve Jobs, 2005.
   </samp>

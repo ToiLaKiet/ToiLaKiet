@@ -1,4 +1,12 @@
 <p align="center">
+  <img
+    src="./assets/chill.gif"
+    width="100%"
+    alt="Chill animated scene"
+  >
+</p>
+
+<p align="center">
   <samp>
     Hello there! I'm
     <b><a href="https://toilakiet.github.io/">Kiet</a></b> 👋
@@ -22,11 +30,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img
-    src="./assets/chill.gif"
-    width="100%"
-    alt="Chill animated scene"
-  >
-</p>

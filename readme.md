@@ -3,14 +3,13 @@
 </p>
 
 <br>
-
 <p align="center">
   <samp>
     Hello there! I'm
     <b><a href="https://toilakiet.github.io/">Kiet</a></b> 👋
-    <br><br>
-    The quote I want to live by: 
-    <i>“stay hungry, stay foolish”</i>.
+    <br>
+    There is one quote I want to live by: 
+    <i>“stay hungry, stay foolish”</i> - Steve Jobs, 2005.
   </samp>
 </p>
 

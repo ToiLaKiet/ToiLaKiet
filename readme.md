@@ -28,5 +28,3 @@
     alt="Profile Views"
   >
 </p>
-
-<br>

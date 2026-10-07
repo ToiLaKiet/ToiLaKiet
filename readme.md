@@ -10,7 +10,7 @@
     <i>“stay hungry, stay foolish”</i> - Steve Jobs, 2005.
   </samp>
 </p>
-<br><br>
+<br>
 <p align="center">
   <a href="https://toilakiet.github.io/"><img src="https://img.shields.io/badge/My_Portfolio-756A5B?style=for-the-badge" alt="My Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=ToiLaKiet&color=756A5B&style=for-the-badge&label=views" alt="Profile Views">

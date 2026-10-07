@@ -9,4 +9,4 @@
 
 <br>
 
-![Hit Counter](https://komarev.com/ghpvc/?username=ToiLaKiet&color=756A5B&style=for-the-badge&label=views&base=16070)
+![Hit Counter](https://komarev.com/ghpvc/?username=ToiLaKiet&color=756A5B&style=for-the-badge&label=views)

@@ -2,12 +2,8 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://toilakiet.github.io/">Kiet</a></b>.
-    <br>I'm a Computer Science Student from UIT - National University of Vietnam.<br>
-    <br>Stay Hungry, Stay Foolish.<br>
+    <br>I love this quote quite a lot: stay Hungry, stay foolish. </br>
+    ![Hit Counter](https://komarev.com/ghpvc/?username=ToiLaKiet&color=756A5B&style=for-the-badge&label=views&base=16070)
 </samp>
 </p>
 <br/>
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,cpp,flask," />
-<br/>
-</div> -->

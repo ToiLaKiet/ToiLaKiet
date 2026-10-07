@@ -13,8 +13,8 @@
     Hello there! I'm
     <b><a href="https://toilakiet.github.io/">Kiet</a></b> 👋
     <br><br>
-    I love this quote quite a lot:
-    <i>“stay hungry, stay foolish.”</i>
+    This is the quote of my life: 
+    <i>“stay hungry, stay foolish”</i>.
   </samp>
 </p>
 

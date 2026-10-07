@@ -2,7 +2,7 @@
   <img src="./chill.gif" width="100%" alt="Chill animated scene">
 </p>
 
-<br>
+<br><br>
 <p align="center">
   <samp>
     Hello there! I'm

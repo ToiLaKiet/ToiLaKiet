@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/chill.gif"
+    src="./chill.gif"
     width="100%"
     alt="Chill animated scene"
   >

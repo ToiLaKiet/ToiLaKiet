@@ -9,7 +9,7 @@
     Hello there! I'm
     <b><a href="https://toilakiet.github.io/">Kiet</a></b> 👋
     <br><br>
-    This is the quote I want to live by: 
+    The quote I want to live by: 
     <i>“stay hungry, stay foolish”</i>.
   </samp>
 </p>
